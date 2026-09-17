@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Legal-Practice-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Legal-Practice-Management?style=flat-square&logo=github" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Legal-Practice-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Legal-Practice-Management?style=flat-square&logo=github" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Legal-Practice-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Legal-Practice-Management?style=flat-square&logo=github" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Legal-Practice-Management/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Legal-Practice-Management?style=flat-square" alt="License"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Legal-Practice-Management/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
@@ -68,57 +68,57 @@ Below is an exhaustive comparison of the category-leading commercial Legal Pract
 
 While enterprise legal practice management is predominantly commercial SaaS due to strict statutory compliance and banking integrations, open-source software plays a crucial role in legal aid clinics, self-hosted privacy-first law firms, academic legal engineering, and specialized document automation.
 
-*Note: The list below is sorted in **descending order** by GitHub star count. Each badge links directly to the repository's stargazers page.*
+*Note: The list below is sorted in **descending order** by GitHub Stars_Count. Each badge links directly to the repository's stargazers page.*
 
-- **[open-legal-products/mike](https://github.com/open-legal-products/mike)** [![GitHub stars](https://img.shields.io/github/stars/open-legal-products/mike?style=social&color=white)](https://github.com/open-legal-products/mike/stargazers)  
+- **[open-legal-products/mike](https://github.com/open-legal-products/mike)** [![GitHub_Stars](https://img.shields.io/github/stars/open-legal-products/mike?style=social&color=white)](https://github.com/open-legal-products/mike/stargazers)  
   🤖 *Next-generation Open-Source Legal AI Platform.* Designed to equip attorneys and legal engineers with self-hosted generative AI pipelines for contract parsing, legal document summarization, semantic search across litigation briefs, and local LLM orchestration with zero cloud data leakage.
 
-- **[Open-Source-Legal/OpenContracts](https://github.com/Open-Source-Legal/OpenContracts)** [![GitHub stars](https://img.shields.io/github/stars/Open-Source-Legal/OpenContracts?style=social&color=white)](https://github.com/Open-Source-Legal/OpenContracts/stargazers)  
+- **[Open-Source-Legal/OpenContracts](https://github.com/Open-Source-Legal/OpenContracts)** [![GitHub_Stars](https://img.shields.io/github/stars/Open-Source-Legal/OpenContracts?style=social&color=white)](https://github.com/Open-Source-Legal/OpenContracts/stargazers)  
   📄 *Enterprise Open Document Intelligence & Management Platform.* A complete DMS for modern legal practitioners and developers featuring document annotation, PDF layout analysis, semantic vector search, version control, and multi-model LLM integration for automated contract analysis.
 
-- **[freelawproject/courtlistener](https://github.com/freelawproject/courtlistener)** [![GitHub stars](https://img.shields.io/github/stars/freelawproject/courtlistener?style=social&color=white)](https://github.com/freelawproject/courtlistener/stargazers)  
+- **[freelawproject/courtlistener](https://github.com/freelawproject/courtlistener)** [![GitHub_Stars](https://img.shields.io/github/stars/freelawproject/courtlistener?style=social&color=white)](https://github.com/freelawproject/courtlistener/stargazers)  
   🏛️ *Searchable Archive of Legal Data, Opinions, & Court Dockets.* Built and maintained by the Free Law Project, CourtListener indexes hundreds of millions of federal and state legal opinions, RECAP PACER documents, oral argument audio recordings, judge disclosure records, and real-time court docket alerts.
 
-- **[jhpyle/docassemble](https://github.com/jhpyle/docassemble)** [![GitHub stars](https://img.shields.io/github/stars/jhpyle/docassemble?style=social&color=white)](https://github.com/jhpyle/docassemble/stargazers)  
+- **[jhpyle/docassemble](https://github.com/jhpyle/docassemble)** [![GitHub_Stars](https://img.shields.io/github/stars/jhpyle/docassemble?style=social&color=white)](https://github.com/jhpyle/docassemble/stargazers)  
   📝 *Free, Open-Source Expert System for Guided Interviews & Document Assembly.* Built with Python, YAML, and Markdown, Docassemble powers guided legal interviews that automatically generate complex PDF and DOCX legal forms, contracts, and court pleadings. Widely adopted across legal aid and court systems globally.
 
-- **[freelawproject/juriscraper](https://github.com/freelawproject/juriscraper)** [![GitHub stars](https://img.shields.io/github/stars/freelawproject/juriscraper?style=social&color=white)](https://github.com/freelawproject/juriscraper/stargazers)  
+- **[freelawproject/juriscraper](https://github.com/freelawproject/juriscraper)** [![GitHub_Stars](https://img.shields.io/github/stars/freelawproject/juriscraper?style=social&color=white)](https://github.com/freelawproject/juriscraper/stargazers)  
   🕷️ *Python Scraper Engine for American Court Websites & Decisions.* An open-source scraping library and API engine that systematically monitors, downloads, and structures court opinions, oral arguments, and docket sheets from appellate and federal courts across the United States.
 
-- **[AnttiHero/lavern](https://github.com/AnttiHero/lavern)** [![GitHub stars](https://img.shields.io/github/stars/AnttiHero/lavern?style=social&color=white)](https://github.com/AnttiHero/lavern/stargazers)  
+- **[AnttiHero/lavern](https://github.com/AnttiHero/lavern)** [![GitHub_Stars](https://img.shields.io/github/stars/AnttiHero/lavern?style=social&color=white)](https://github.com/AnttiHero/lavern/stargazers)  
   👥 *Agentic Law Firm Framework Powered by 67 Specialist AI Agents.* An Apache 2.0 open-source framework organizing collaborative AI subagents that simulate full-firm workflows: evidence-backed contract debate, conflict identification, compliance gates, and a 10-pass verification loop for attorney work product review.
 
-- **[lawflow-boop/LawLink](https://github.com/lawflow-boop/LawLink)** [![GitHub stars](https://img.shields.io/github/stars/lawflow-boop/LawLink?style=social&color=white)](https://github.com/lawflow-boop/LawLink/stargazers)  
+- **[lawflow-boop/LawLink](https://github.com/lawflow-boop/LawLink)** [![GitHub_Stars](https://img.shields.io/github/stars/lawflow-boop/LawLink?style=social&color=white)](https://github.com/lawflow-boop/LawLink/stargazers)  
   ⚖️ *Open-Source Self-Hosted Legal Practice Management System.* Specifically built for independent solo practitioners and small law firms seeking complete data ownership. Features matter lifecycle management, client intake, conflict-of-interest searching, basic finance tracking, and document archiving.
 
-- **[jlawyerorg/j-lawyer-org](https://github.com/jlawyerorg/j-lawyer-org)** [![GitHub stars](https://img.shields.io/github/stars/jlawyerorg/j-lawyer-org?style=social&color=white)](https://github.com/jlawyerorg/j-lawyer-org/stargazers)  
+- **[jlawyerorg/j-lawyer-org](https://github.com/jlawyerorg/j-lawyer-org)** [![GitHub_Stars](https://img.shields.io/github/stars/jlawyerorg/j-lawyer-org?style=social&color=white)](https://github.com/jlawyerorg/j-lawyer-org/stargazers)  
   🖥️ *Production-Grade Desktop & Server Case Management Suite.* Cross-platform (Windows, macOS, Linux) open-source software actively maintained for legal practices. Includes contact management, matter folders, calendaring, encrypted document management, scanning integrations, and beA (special electronic lawyer mailbox) interoperability.
 
-- **[SuffolkLITLab/docassemble-AssemblyLine](https://github.com/SuffolkLITLab/docassemble-AssemblyLine)** [![GitHub stars](https://img.shields.io/github/stars/SuffolkLITLab/docassemble-AssemblyLine?style=social&color=white)](https://github.com/SuffolkLITLab/docassemble-AssemblyLine/stargazers)  
+- **[SuffolkLITLab/docassemble-AssemblyLine](https://github.com/SuffolkLITLab/docassemble-AssemblyLine)** [![GitHub_Stars](https://img.shields.io/github/stars/SuffolkLITLab/docassemble-AssemblyLine?style=social&color=white)](https://github.com/SuffolkLITLab/docassemble-AssemblyLine/stargazers)  
   ⚡ *Rapid Court Form to Guided Web Application Engine.* Developed by Suffolk University's Legal Innovation & Technology Lab, this framework enables rapid conversion of standard paper court forms into fully accessible, multi-lingual, responsive mobile web intake interviews.
 
-- **[chen-friedman/awesome-legaltech](https://github.com/chen-friedman/awesome-legaltech)** [![GitHub stars](https://img.shields.io/github/stars/chen-friedman/awesome-legaltech?style=social&color=white)](https://github.com/chen-friedman/awesome-legaltech/stargazers)  
+- **[chen-friedman/awesome-legaltech](https://github.com/chen-friedman/awesome-legaltech)** [![GitHub_Stars](https://img.shields.io/github/stars/chen-friedman/awesome-legaltech?style=social&color=white)](https://github.com/chen-friedman/awesome-legaltech/stargazers)  
   📚 *Curated Open-Source Legal AI & LegalTech Index.* A comprehensive global directory indexing open-source legal AI tools, jurisdiction-tagged datasets, legal NLP benchmarks, and developer resources for building modern legal software.
 
-- **[derekgan08/CaseAce-law-firm-management-system-backend](https://github.com/derekgan08/CaseAce-law-firm-management-system-backend)** [![GitHub stars](https://img.shields.io/github/stars/derekgan08/CaseAce-law-firm-management-system-backend?style=social&color=white)](https://github.com/derekgan08/CaseAce-law-firm-management-system-backend/stargazers)  
+- **[derekgan08/CaseAce-law-firm-management-system-backend](https://github.com/derekgan08/CaseAce-law-firm-management-system-backend)** [![GitHub_Stars](https://img.shields.io/github/stars/derekgan08/CaseAce-law-firm-management-system-backend?style=social&color=white)](https://github.com/derekgan08/CaseAce-law-firm-management-system-backend/stargazers)  
   🛠️ *Node.js & Express REST Backend for Law Firm Operations.* Web backend providing structured endpoints for case dossier management, staff task assignments, attorney scheduling, client record keeping, and document metadata indexing.
 
-- **[aworley/ocm](https://github.com/aworley/ocm)** [![GitHub stars](https://img.shields.io/github/stars/aworley/ocm?style=social&color=white)](https://github.com/aworley/ocm/stargazers)  
+- **[aworley/ocm](https://github.com/aworley/ocm)** [![GitHub_Stars](https://img.shields.io/github/stars/aworley/ocm?style=social&color=white)](https://github.com/aworley/ocm/stargazers)  
   🏥 *Open Case Management (OCM) for Legal Aid & Nonprofits.* A browser-based open-source case management system (GPL) tailored specifically for not-for-profit legal service providers, public defense clinics, and community advocacy organizations.
 
-- **[4csolutions/casecentral](https://github.com/4csolutions/casecentral)** [![GitHub stars](https://img.shields.io/github/stars/4csolutions/casecentral?style=social&color=white)](https://github.com/4csolutions/casecentral/stargazers)  
+- **[4csolutions/casecentral](https://github.com/4csolutions/casecentral)** [![GitHub_Stars](https://img.shields.io/github/stars/4csolutions/casecentral?style=social&color=white)](https://github.com/4csolutions/casecentral/stargazers)  
   📂 *Open-Source Legal Practice Management Application.* Community project addressing standard law firm operational requirements, focusing on case tracking, task management, document linkage, and practitioner notes.
 
-- **[vikash0439/legalSystem](https://github.com/vikash0439/legalSystem)** [![GitHub stars](https://img.shields.io/github/stars/vikash0439/legalSystem?style=social&color=white)](https://github.com/vikash0439/legalSystem/stargazers)  
+- **[vikash0439/legalSystem](https://github.com/vikash0439/legalSystem)** [![GitHub_Stars](https://img.shields.io/github/stars/vikash0439/legalSystem?style=social&color=white)](https://github.com/vikash0439/legalSystem/stargazers)  
   ☕ *Spring Boot & MySQL Legal Case Tracking System.* A full-stack Java application delivering core law practice features: client registries, case status pipelines, hearing date reminders, and matter document storage.
 
-- **[daniel-debrun/LegalNexus](https://github.com/daniel-debrun/LegalNexus)** [![GitHub stars](https://img.shields.io/github/stars/daniel-debrun/LegalNexus?style=social&color=white)](https://github.com/daniel-debrun/LegalNexus/stargazers)  
+- **[daniel-debrun/LegalNexus](https://github.com/daniel-debrun/LegalNexus)** [![GitHub_Stars](https://img.shields.io/github/stars/daniel-debrun/LegalNexus?style=social&color=white)](https://github.com/daniel-debrun/LegalNexus/stargazers)  
   🔬 *AI-Powered Legal Research & Case Workspace.* Python-driven tool featuring isolated matter data architectures, CanLII case law lookup integration, and automated semantic relevance scoring for legal briefs.
 
-- **[tolgatasci/lawyer-portal](https://github.com/tolgatasci/lawyer-portal)** [![GitHub stars](https://img.shields.io/github/stars/tolgatasci/lawyer-portal?style=social&color=white)](https://github.com/tolgatasci/lawyer-portal/stargazers)  
+- **[tolgatasci/lawyer-portal](https://github.com/tolgatasci/lawyer-portal)** [![GitHub_Stars](https://img.shields.io/github/stars/tolgatasci/lawyer-portal?style=social&color=white)](https://github.com/tolgatasci/lawyer-portal/stargazers)  
   🌐 *Modern Full-Stack Legal Tech Portal (Laravel 10 + Vue 3).* Multi-tenant web platform for law firms incorporating case management, client CRM, automated legal document drafting, hearing scheduling, and responsive administrative dashboards.
 
-- **[mlutfy/lcm](https://github.com/mlutfy/lcm)** [![GitHub stars](https://img.shields.io/github/stars/mlutfy/lcm?style=social&color=white)](https://github.com/mlutfy/lcm/stargazers)  
+- **[mlutfy/lcm](https://github.com/mlutfy/lcm)** [![GitHub_Stars](https://img.shields.io/github/stars/mlutfy/lcm?style=social&color=white)](https://github.com/mlutfy/lcm/stargazers)  
   📋 *Legal Case Management for Advice Clinics.* Lightweight PHP/MySQL database system created for legal advice centers to record client consultations, track court hearings, and generate funding compliance reports.
 
 ---
@@ -182,7 +182,7 @@ Contributions from legal practitioners, paralegals, legal tech engineers, and op
 2. **Create a descriptive feature branch**: `git checkout -b feature/add-new-legal-tool`
 3. **Add or update an entry**:
    - For **SaaS platforms**, ensure starting pricing, free trial terms, and company scale metrics are thoroughly researched and verified.
-   - For **Open-Source tools**, add the social white star badge linking to the repository's stargazers page and insert it into the star-sorted hierarchy.
+   - For **Open-Source tools**, add the social white Stars_Badge linking to the repository's stargazers page and insert it into the star-sorted hierarchy.
 4. **Commit your changes**: `git commit -m "Add [Tool Name] with verified pricing and features"`
 5. **Open a Pull Request** with a concise explanation of the added tool and its relevance to legal practice management.
 
